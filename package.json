@@ -1,0 +1,19 @@
+{
+  "name": "meeting-matcher",
+  "version": "1.0.0",
+  "description": "a scheduling helper",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-nordheim/meeting-matcher.git"
+  },
+  "author": "Jason Nordheim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-nordheim/meeting-matcher/issues"
+  },
+  "homepage": "https://github.com/jason-nordheim/meeting-matcher#readme"
+}
